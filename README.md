@@ -1,7 +1,6 @@
 <response>
 # Stopwatch JavaScript Project
 
-## 🗒️ Answer
 
 ### Project Overview
 This project is a simple stopwatch application developed using JavaScript. It is designed to practice asynchronous programming concepts, specifically using the `setInterval` and `clearInterval` Web APIs.
